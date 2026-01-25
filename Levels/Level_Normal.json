@@ -1,0 +1,42 @@
+{
+  "levelName": "Normal Room",
+  "keysToWin": 4,
+  "maxRoomFill": 85,
+
+  "spawnPhases": [
+    {
+      "startTime": 0,
+      "spawnInterval": 5,
+      "objects": [
+        {
+          "id": "Box",
+          "fillValue": 7
+        }
+      ]
+    },
+    {
+      "startTime": 20,
+      "spawnInterval": 3,
+      "objects": [
+        {
+          "id": "Box",
+          "fillValue": 7
+        },
+        {
+          "id": "Barrel",
+          "fillValue": 12
+        }
+      ]
+    },
+    {
+      "startTime": 45,
+      "spawnInterval": 2.5,
+      "objects": [
+        {
+          "id": "Barrel",
+          "fillValue": 12
+        }
+      ]
+    }
+  ]
+}
