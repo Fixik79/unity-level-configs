@@ -1,0 +1,32 @@
+{
+  "levelName": "Easy Room",
+  "keysToWin": 3,
+  "maxRoomFill": 100,
+
+  "spawnPhases": [
+    {
+      "startTime": 0,
+      "spawnInterval": 6,
+      "objects": [
+        {
+          "id": "Box",
+          "fillValue": 5
+        }
+      ]
+    },
+    {
+      "startTime": 30,
+      "spawnInterval": 4,
+      "objects": [
+        {
+          "id": "Box",
+          "fillValue": 5
+        },
+        {
+          "id": "Barrel",
+          "fillValue": 10
+        }
+      ]
+    }
+  ]
+}
