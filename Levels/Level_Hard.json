@@ -1,0 +1,42 @@
+{
+  "levelName": "Hard Room",
+  "keysToWin": 5,
+  "maxRoomFill": 70,
+
+  "spawnPhases": [
+    {
+      "startTime": 0,
+      "spawnInterval": 4,
+      "objects": [
+        {
+          "id": "Box",
+          "fillValue": 10
+        }
+      ]
+    },
+    {
+      "startTime": 15,
+      "spawnInterval": 2.5,
+      "objects": [
+        {
+          "id": "Box",
+          "fillValue": 10
+        },
+        {
+          "id": "Barrel",
+          "fillValue": 15
+        }
+      ]
+    },
+    {
+      "startTime": 35,
+      "spawnInterval": 1.8,
+      "objects": [
+        {
+          "id": "Barrel",
+          "fillValue": 18
+        }
+      ]
+    }
+  ]
+}
