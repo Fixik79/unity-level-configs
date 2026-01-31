@@ -6,7 +6,7 @@
   "spawnPhases": [
     {
       "startTime": 0,
-      "spawnInterval": 6,
+      "spawnInterval": 3,
       "objects": [
         {
           "id": "Box",
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "startTime": 30,
+      "startTime": 10,
       "spawnInterval": 4,
       "objects": [
         {
