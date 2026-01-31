@@ -11,6 +11,10 @@
         {
           "id": "Box",
           "fillValue": 5
+        },
+        {
+          "id": "Sphera",
+          "fillValue": 3
         }
       ]
     },
@@ -23,8 +27,8 @@
           "fillValue": 5
         },
         {
-          "id": "Barrel",
-          "fillValue": 10
+          "id": "Sphera",
+          "fillValue": 5
         }
       ]
     }
