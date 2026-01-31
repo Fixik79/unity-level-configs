@@ -5,30 +5,30 @@
 
   "spawnPhases": [
     {
-      "startTime": 0,
-      "spawnInterval": 3,
+      "startTime": 3,
+      "spawnInterval": 2,
       "objects": [
         {
           "id": "Box",
-          "fillValue": 5
+          "fillValue": 3
         },
         {
           "id": "Sphera",
-          "fillValue": 3
+          "fillValue": 6
         }
       ]
     },
     {
       "startTime": 10,
-      "spawnInterval": 4,
+      "spawnInterval": 3,
       "objects": [
         {
           "id": "Box",
-          "fillValue": 5
+          "fillValue": 2
         },
         {
           "id": "Sphera",
-          "fillValue": 5
+          "fillValue": 7
         }
       ]
     }
