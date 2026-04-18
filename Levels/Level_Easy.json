@@ -1,12 +1,12 @@
 {
-  "levelName": "Easy Room",
+  "levelName": "One Room",
   "keysToWin": 3,
   "maxRoomFill": 100,
 
   "spawnPhases": [
     {
       "startTime": 3,
-      "spawnInterval": 2,
+      "spawnInterval": 3,
       "objects": [
         {
           "id": "Box",
@@ -14,7 +14,7 @@
         },
         {
           "id": "Sphera",
-          "fillValue": 6
+          "fillValue": 2
         }
       ]
     },
@@ -28,7 +28,7 @@
         },
         {
           "id": "Sphera",
-          "fillValue": 7
+          "fillValue":5
         }
       ]
     }
